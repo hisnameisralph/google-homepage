@@ -1,0 +1,67 @@
+.tprcorner{
+    position: fixed;
+    right: 0; 
+    padding-right: 1em;   
+}
+.hover{
+    color: rgb(2, 1, 1);
+}
+.hover:hover{
+   color: grey;
+}
+
+
+
+#nav-bar1{
+    font-family: arial, sans-serif;
+    
+    }
+  
+#nav-bar2 {
+    
+    font-family: arial, sans-serif;
+}
+
+#apps-button {
+    font-family: arial, sans-serif;
+  
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 15em;
+}
+
+#site-search{
+   
+    border-radius: 100px;
+    border: 2px solid grey;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+#button1 {
+    font-family: arial, sans-serif;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    background-color: powderblue;
+} 
+#button2 {
+    font-family: arial, sans-serif;
+    position: absolute;
+    top: 55%;
+    left: 52%;
+}
+
+#language{
+    font-family: arial, sans-serif;
+    position: absolute;
+    top: 75%;
+    left: 40%;
+
+}
